@@ -4,4 +4,4 @@ Promise 规范见 [Promises/A+](https://promisesaplus.com/) ，这里没考虑 [
 
 `yarn test` 执行的是 `promises-aplus-tests ./promise-for-test.js --grep 2.3.3 --invert` ，这里也是去掉了 `2.3.3` 对应的测试用例，其它测试用例均能通过。
 
-了解更多异步和 Promise --> https://github.com/findxc/blog/issues/61
+了解更多异步和 Promise --> https://github.com/findxc/blog/issues/62
